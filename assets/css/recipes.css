@@ -1,0 +1,36 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS';
+    background-color: #f8f8f8;
+    margin: 0;
+    padding: 20px;
+}
+
+img {
+    max-width: 50%;
+}
+
+.recipe-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+h1,
+h2 {
+    color: #333;
+}
+
+ul,
+ol {
+    margin-left: 20px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+p {
+    margin-bottom: 16px;
+    line-height: 1.6;
+}
